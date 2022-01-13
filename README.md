@@ -6,7 +6,7 @@
 - 📫 How to reach me: nganthudoan2001@gmail.com or https://www.facebook.com/doanthungan19
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&show_icons=true&theme=radical)
 
 
 
