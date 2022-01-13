@@ -9,4 +9,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909)
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=thungan1909&show_icons=true)
+
+![Ngan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thungan1909&show_icons=true&theme=radical)
