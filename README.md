@@ -1,8 +1,7 @@
 ### Hi, call me Ngân 👋
 
 
-- 🔭 I’m currently studying at Ho Chi Minh University of Sciences
-- 🌱 I’m currently learning Software Engineering
+- 🔭 I’m currently  learning Software Engineering at Ho Chi Minh University of Sciences
 - 📫 How to reach me: nganthudoan2001@gmail.com or https://www.facebook.com/doanthungan19
 
 
