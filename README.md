@@ -10,3 +10,6 @@
 
 
 ![Ngan's GitHub stats](https://raw.githubusercontent.com/thungan1909/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/thungan1909/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/thungan1909/github-stats/master/generated/languages.svg#gh-dark-mode-only)
