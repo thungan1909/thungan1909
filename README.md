@@ -9,4 +9,4 @@
 
 
 
-![Ngan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thungan1909&show_icons=true&theme=radical)
+![Ngan's GitHub stats](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
