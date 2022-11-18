@@ -10,6 +10,8 @@
        <img src="https://komarev.com/ghpvc/?username=thungan1909&style=flat-square&color=blue" alt=""/>
  </div>
  
+ <h2> About me </h2>
+ 
 - 👩‍🎓 I’m currently learning Software Engineering at Ho Chi Minh University of Sciences
 - 🌱 I want to become Front-End Developer
 - 📫 Contact me:
@@ -25,17 +27,17 @@
     </a>
 </div>
 
-### :hammer_and_wrench: Languages, Framework and Tools :
+<h2> :hammer_and_wrench: Languages, Framework and Tools : </h2>
 
-   <h3> 🍀 Front-end </h3>
+- <h3>  Front-end </h3>
    
    ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML&style=flat)
    ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=CSS&style=flat)
    ![Javascript](https://img.shields.io/badge/JavaScript-323330?logo=Javascript&style=flat)
    ![ReactJS](	https://img.shields.io/badge/React-20232A?logo=ReactJS&style=flat)
    
-   <h3>🍀 Other</h3>
-    
+-  <h3> Other </h3>
+
   ![C](https://img.shields.io/badge/C-4640b8.svg?logo=C&style=flat)
   ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=flat)
   ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=C-sharp&style=flat)
@@ -44,17 +46,19 @@
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=MySQL&style=flat)
   ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=Postgres&style=flat)
 
-### Stats:
+<h2> Stats: </h2>
 
-  <h3> ✔️ GitHub Streak </h3>
+- <h3> Ngan's GitHub stats </h3>
+     
+![Ngan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thungan1909&theme=vision-friendly-dark)
+
+-  <h3>  Top Langs </h3>
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&theme=vision-friendly-dark)
+
+- <h3>  GitHub Streak </h3>
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thungan1909&theme=vision-friendly-dark)
 
-   <h3> ✔️ Ngan's GitHub stats </h3>
-   
-![Ngan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thungan1909&theme=vision-friendly-dark)
-
-   <h3> ✔️ Top Langs </h3>
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&theme=vision-friendly-dark)
+  
 
