@@ -58,11 +58,11 @@
 
 -  <h3>  Top Langs </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&langs_count=9&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&langs_count=9&layout=compact&theme=vision-friendly-dark&hide=makefile)
 
 - <h3>  GitHub Streak </h3>
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thungan1909&theme=vision-friendly-dark)
 
-  
+
 
