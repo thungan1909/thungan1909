@@ -57,8 +57,8 @@
 ![Ngan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thungan1909&theme=vision-friendly-dark)
 
 -  <h3>  Top Langs </h3>
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&langs_count=9&layout=compact&theme=vision-friendly-dark)
 
 - <h3>  GitHub Streak </h3>
   
