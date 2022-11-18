@@ -7,3 +7,12 @@
 ![Ngan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thungan1909&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&theme=radical)
+
+### Stats:
+  
+<p align="left">
+  <img src="https://github.com/thungan1909/github-stats/blob/master/generated/overview.svg">
+  <img src="https://github.com/thungan1909/github-stats/blob/master/generated/languages.svg">
+</p>
+ 
+
