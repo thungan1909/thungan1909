@@ -46,7 +46,15 @@
 
 ### Stats:
 
+  <h3> ✔️ GitHub Streak </h3>
+  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thungan1909&theme=vision-friendly-dark)
+
+   <h3> ✔️ Ngan's GitHub stats </h3>
+   
 ![Ngan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thungan1909&theme=vision-friendly-dark)
+
+   <h3> ✔️ Top Langs </h3>
+   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thungan1909&theme=vision-friendly-dark)
 
