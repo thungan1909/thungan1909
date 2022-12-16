@@ -59,7 +59,7 @@
 
 -  <h3>  Top Langs </h3>
 
-![Top Langs](https://github-readme-stats-p85a-gep0zat9g-thungan1909.vercel.app/api/top-langs/?username=thungan1909&langs_count=9&layout=compact&theme=vision-friendly-dark&hide=makefile)
+![Top Langs](https://github-readme-stats-p85a-gep0zat9g-thungan1909.vercel.app/api/top-langs/?username=thungan1909&langs_count=9&layout=compact&theme=vision-friendly-dark&hide=makefile,postscript,tex,handlebars)
 
 - <h3>  GitHub Streak </h3>
   
