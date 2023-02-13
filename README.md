@@ -38,8 +38,8 @@
    ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML&logoColor=white&style=for-the-badge)
    ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=CSS&logoColor=white&style=for-the-badge)
    ![Javascript](https://img.shields.io/badge/JavaScript-323330?logo=Javascript&logoColor=white&style=for-the-badge)
-<!--    ![ReactJS](	https://img.shields.io/badge/React-20232A?logo=ReactJS&logoColor=white&style=for-the-badge)
-    -->
+   ![ReactJS](	https://img.shields.io/badge/React-20232A?logo=ReactJS&logoColor=white&style=for-the-badge)
+   
 -  <h3> Other </h3>
 
   ![C](https://img.shields.io/badge/C-4640b8.svg?logo=C&logoColor=white&style=for-the-badge)
