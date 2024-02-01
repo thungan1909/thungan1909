@@ -12,8 +12,7 @@
  
  <h2> About me </h2>
  
-- 👩‍🎓 I’m currently learning Software Engineering at Ho Chi Minh University of Sciences
-- 🌱 I want to become Front-End Developer
+- 👩‍🎓 Software Engineer (Front-End Developer)
 - 📫 Contact me:
 <div align="center" id="badges">
     <a href="https://www.facebook.com/doanthungan19">
@@ -37,7 +36,8 @@
    
    ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML&logoColor=white&style=for-the-badge)
    ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=CSS&logoColor=white&style=for-the-badge)
-   ![Javascript](https://img.shields.io/badge/JavaScript-323330?logo=Javascript&logoColor=white&style=for-the-badge)
+   ![JavasCript](https://img.shields.io/badge/JavaScript-323330?logo=Javascript&logoColor=white&style=for-the-badge)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-323330?logo=Typescript&logoColor=white&style=for-the-badge)
    ![ReactJS](	https://img.shields.io/badge/React-20232A?logo=ReactJS&logoColor=white&style=for-the-badge)
    
 -  <h3> Other </h3>
