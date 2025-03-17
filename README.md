@@ -16,7 +16,7 @@
 - 📫 Contact me:
 <div align="center" id="badges">
     <a href="https://www.facebook.com/doanthungan19">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facbook Badge"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/%C4%91o%C3%A0n-thu-ng%C3%A2n-76a6ab233/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
